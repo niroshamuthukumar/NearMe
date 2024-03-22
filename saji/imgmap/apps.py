@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MapappConfig(AppConfig):
+class ImgmapConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'mapapp'
+    name = 'imgmap'
